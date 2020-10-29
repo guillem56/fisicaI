@@ -1,2 +1,2 @@
 # fisicaI
-programas de fisixca en pyyhon
+programas de fisixca en python
